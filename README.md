@@ -1,1 +1,3 @@
-# Apito
+# Apito - La Batucada de Colomiers
+
+Ce repository a pour but de centraliser les infos sur la conception du "pochoir" pour les impressions sur les surdos, caisses et autres....
